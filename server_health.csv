@@ -8,7 +8,7 @@ pos-api-translator-item-scan-app,https://gitlab.com/heb-engineering/teams/eti-di
 fosapplication,https://gitlab.com/heb-engineering/teams/eti-digital-engineering/point-of-sale/enterprise-applications/foodie-ordering-system/fosapplication,develop,SAST,High,7/2/2026,Remediated,Reshma Raj,Karthik,Fixed
 pos-pdm-qatest1-app,SAML single sign-on for H-E-B · GitLab,main,SAST,High,7/2/2026,Remediated,Sharique,Naveen,Deleted the repo
 pos-pdm-qatest2-app,SAML single sign-on for H-E-B · GitLab,main,SAST,High,7/2/2026,Remediated,Sharique,Naveen,Deleted the repo
-goposhttpserver,https://gitlab.com/heb-engineering/teams/eti-digital-engineering/point-of-sale/microservices-platform/templates/golang-common-modules/goposhttpserver,main,SAST,High,7/2/2026,In Progress,Sharique,Karthik, Analysis is progress to identify a fix with minimal client impacts. Will update
+goposhttpserver,https://gitlab.com/heb-engineering/teams/eti-digital-engineering/point-of-sale/microservices-platform/templates/golang-common-modules/goposhttpserver,main,SAST,High,7/2/2026,In Progress,Sharique,Karthik, Analysis is Progress to identify a fix with minimal client impacts. Will update
 heblclposapp,SAML single sign-on for H-E-B · GitLab,main,SAST,High,7/2/2026,Remediated,Ajeesh,Karthik,Fixed
 pos-cart-director-app,https://gitlab.com/heb-engineering/teams/eti-digital-engineering/point-of-sale/microservices/pos/core/order-suite/pos-cart-director/pos-cart-director-app,main,SAST,High,7/2/2026,Remediated,Athira Sudevan,Karthik,Fixed
 MyHEBFuel-CentralOffice,SAML single sign-on for H-E-B · GitLab,develop,SAST,High,7/2/2026,Open,Nikhil/Ansiya/Sumi/Renjith,Jennifer,Mail sent
@@ -68,7 +68,7 @@ MyHEBPOS_64-deletion_scheduled-76258268,https://gitlab.com/heb-engineering/pci/p
 salt,https://gitlab.com/heb-engineering/teams/systems/pos/messaging-systems-team/salt,master,SAST,High,7/23/2026,Open,Brian,Naveen,5 files got removed only pending is file 128
 pos-lottery-app,H-E-B / Teams / ETI – Digital Engineering / Point of Sale / microservices / pos / vendor-integrations / pos-lottery / pos-lottery-app · GitLab,main,SAST,High,7/28/2026,Remediated,"Muhammed Jahfer Ali, Devika",Renjith,Fixed
 My HEB Fuel Client,https://gitlab.com/heb-engineering/pci/pos/fuel/FuelSource,develop,SAST,High,7/28/2026,Remediated,Renjith Ramachandran,Vishnu Nair,Fixed
-My HEB Client,H-E-B / PCI Compliance / Point Of Sale / build-and-deploy / Build_test / My HEB Client · GitLab,develop,SAST,High,8/5/2026,In progress,Ajeesh,Jennifer,Mail sent 
+My HEB Client,H-E-B / PCI Compliance / Point Of Sale / build-and-deploy / Build_test / My HEB Client · GitLab,develop,SAST,High,8/5/2026,In Progress,Ajeesh,Jennifer,Mail sent 
 heblclposapp - mex,https://gitlab.com/heb-engineering/pci/pos/client-platform/thinpro-platform/thinpro-apps/heblclposapp-mex,main,SAST,High,8/12/2026,Remediated,"Varsha,Midhu",Naveen,Fixed
 pos-charity-campaign-kon-app,https://gitlab.com/heb-engineering/teams/eti-digital-engineering/point-of-sale/microservices/pos/promotional/pos-charity-campaign/pos-charity-campaign-kon-app,main,Supply chain,High,8/17/2026,Remediated,Preeti Nair,Vishnu Nair,Archeived
 pos-storeservice-app,https://gitlab.com/heb-engineering/teams/systems/pos/digital/pos-microservices/pos-storeservice/pos-storeservice-app,master,Supply chain,High,8/17/2026,Open,Sumath Ghanta,Vishnu Nair,Mail sent
